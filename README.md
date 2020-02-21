@@ -8,3 +8,9 @@ Refer: [Intents and Intent Filter](https://developer.android.com/guide/component
 ​	The app works by pressing the address button to pass an intent, and open the second activity. This is where the user has to enter the address and press enter. This data will be passed back to the activity 1.
 
 Finally, the user is able to press the 'MAP' button to open Google Maps and show the location. The following screenshots shows activity 1, and 2.
+
+![Main Activity](Screenshot_1.png)
+
+![Second Activity](Screenshot_2.png)
+
+![Google Maps](Screenshot_3.png)
