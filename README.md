@@ -9,7 +9,7 @@ Refer: [Intents and Intent Filter](https://developer.android.com/guide/component
 
 Finally, the user is able to press the 'MAP' button to open Google Maps and show the location. The following screenshots shows activity 1, and 2.
 
-![Main Activity](Screenshot_1.png)
+![Main Activity](Screenshot_1.png =288x144)
 
 ![Second Activity](Screenshot_2.png)
 
