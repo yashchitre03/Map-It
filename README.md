@@ -13,9 +13,13 @@ Finally, the user is able to press the 'MAP' button to open Google Maps and show
 
 #### Main Activity
 
+-----------------------
+
 <img src="https://github.com/yashchitre03/Map-It/blob/master/Screenshot_2.png" alt="alt text" width="288" height="576">
 
 #### Second Activity
+
+---------------------------------------
 
 <img src="https://github.com/yashchitre03/Map-It/blob/master/Screenshot_3.png" alt="alt text" width="288" height="576">
 
